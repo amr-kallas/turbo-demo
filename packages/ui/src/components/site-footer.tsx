@@ -15,8 +15,8 @@ function SiteFooter({
         <span>
           © {new Date().getFullYear()} {title}
         </span>
-        <a href="mailto:hello@example.com" className="hover:text-foreground">
-          hello@example.com
+        <a href="#" className="hover:text-foreground">
+          info@example.com
         </a>
       </div>
     </footer>
